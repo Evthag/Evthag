@@ -22,17 +22,6 @@ Interested in roles where models ship and impact is measurable.
 
 ---
 
-## Focus Areas
-
-| Domain | Methods |
-|---|---|
-| Time series forecasting | ARIMA · Holt-Winters · Prophet · LSTM |
-| Supply chain & optimization | Facility location · VRP · EOQ · Safety stock |
-| Deep learning | Sequence modeling · CNNs · Transfer learning |
-| Exploratory analysis | Seasonal decomposition · Anomaly detection |
-
----
-
 ## Featured Projects
 
 | Project | Description |
