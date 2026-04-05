@@ -1,6 +1,6 @@
 # Hi, I'm Taiwo Oloko
 
-**Data Scientist — Machine Learning · Time Series · Optimization**
+**Data Scientist — Machine Learning **
 
 ![Open to opportunities](https://img.shields.io/badge/Status-Open%20to%20opportunities-1D9E75?style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taiwo%20Oloko-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-oloko/)
